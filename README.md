@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya;Full+Stack+Developer;CSE+Undergrad+%40+SRM+University+AP;Curious+Mind%2C+Constantly+Learning" alt="Typing SVG" />
+</h1>
 
-<!--
-**git-aditya950/git-aditya950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya950" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/git-aditya950" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 **CSE Undergrad** at SRM University AP
+- 💡 Passionate about building **end-to-end web applications** and solving real-world problems through code
+- 🔭 Currently working on full stack projects with **HTML, CSS, JavaScript, and Python**
+- 🌱 Constantly learning — exploring **React, Node.js, and System Design**
+- ⚡ Fun fact: I write code and build logic — sometimes they even agree with each other!
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚂 [Train Ticket Booking](https://github.com/git-aditya950/Train-Ticket-Booking) | A train ticket booking system with a clean UI | HTML, CSS |
+| 🌤️ [Weather App](https://github.com/git-aditya950/Weather-App) | Real-time weather lookup using a weather API | JavaScript |
+| 📐 [DAA Project](https://github.com/git-aditya950/DAA-Project) | Algorithm visualizer / Design & Analysis project | JavaScript |
+| 🐍 [Python Mini Projects](https://github.com/git-aditya950/Python-Mini-Projects) | Collection of beginner-to-intermediate Python projects | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-aditya950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Aditya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aditya950&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-aditya950&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya950" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=git-aditya950&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>"Writing Code & Building Logic — one commit at a time."</i>
+</p>
