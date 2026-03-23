@@ -70,8 +70,6 @@
 | 🌍 [EcoLearn](https://github.com/RaoAdii/EcoLearn) | Environmental education platform with quizzes, gamification, leaderboards & real-time climate data | Python, SQLite, Streamlit, Pandas |
 | 🚂 [Treno](https://github.com/RaoAdii/Treno) | IRCTC-inspired full-stack train ticket booking app with a C++ REST API backend and Tailwind frontend | HTML, Tailwind CSS, C++, Docker |
 | 🌤️ [Skybit](https://github.com/RaoAdii/Skybit) | Real-time weather app with live data lookup and a clean responsive UI | JavaScript, CSS, HTML |
-| 💡 Lumis | *(Coming soon)* | — |
-| 🕹️ Simulation Game | *(Coming soon)* | — |
 
 ---
 
