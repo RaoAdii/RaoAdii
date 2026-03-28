@@ -17,16 +17,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- **CSE Undergrad** at SRM University AP
-- Passionate about building **end-to-end web applications** and solving real-world problems through code
-- Currently working on full stack projects with **HTML, CSS, JavaScript, and Python**
-- Constantly learning — exploring **React, Node.js, and System Design**
-- Fun fact: I write code and build logic — sometimes they even agree with each other!
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
